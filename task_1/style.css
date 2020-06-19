@@ -1,0 +1,36 @@
+
+.main {
+    margin: 1em;
+    max-width: 500px;
+    background-color: grey;
+  }
+  .red {
+    margin: 1em;
+    max-width: 100px;
+    background-color: red;
+    text-align: center;
+  }
+  .blue {
+    margin: 1em;
+    max-width: 100px;
+    background-color: blue;
+    text-align: center
+  }
+  .yellow {
+    margin: 1em;
+    max-width: 100px;
+    background-color: yellow;
+    text-align: center
+  }
+  .black {
+    margin: 1em;
+    max-width: 100px;
+    background-color: black;
+    text-align: center;
+    color: white;
+  }
+  .set {
+    background-color: grey;
+    width: 100px;
+    text-align: center;
+}
